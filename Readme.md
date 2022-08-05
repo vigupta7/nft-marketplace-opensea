@@ -1,3 +1,6 @@
+This repo contains code for creating a NFT Marketplace just like OpenSea.
+It has two sections for frontend and backend detailed below.
+
 # Nft-Marketplace frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
